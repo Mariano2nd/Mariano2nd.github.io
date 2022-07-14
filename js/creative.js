@@ -85,7 +85,7 @@
       preload: [0, 1]
     },
     image: {
-      tError: 'The image #%curr% will not be loaded. <a href="%url%">link to repo</a>'
+      tError: 'The image will not be loaded for <a href="%url%"> #%curr%. Click here to repo!</a>'
     }
   });
 
